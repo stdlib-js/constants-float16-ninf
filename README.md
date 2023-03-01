@@ -91,9 +91,9 @@ console.log( FLOAT16_NINF );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float16/pinf`][@stdlib/constants/float16/pinf]</span><span class="delimiter">: </span><span class="description">half-precision floating-point positive infinity.</span>
--   <span class="package-name">[`@stdlib/constants/float32/ninf`][@stdlib/constants/float32/ninf]</span><span class="delimiter">: </span><span class="description">single-precision floating-point negative infinity.</span>
--   <span class="package-name">[`@stdlib/constants/float64/ninf`][@stdlib/constants/float64/ninf]</span><span class="delimiter">: </span><span class="description">double-precision floating-point negative infinity.</span>
+-   <span class="package-name">[`@stdlib/constants-float16/pinf`][@stdlib/constants/float16/pinf]</span><span class="delimiter">: </span><span class="description">half-precision floating-point positive infinity.</span>
+-   <span class="package-name">[`@stdlib/constants-float32/ninf`][@stdlib/constants/float32/ninf]</span><span class="delimiter">: </span><span class="description">single-precision floating-point negative infinity.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/ninf`][@stdlib/constants/float64/ninf]</span><span class="delimiter">: </span><span class="description">double-precision floating-point negative infinity.</span>
 
 </section>
 
@@ -117,11 +117,6 @@ For more information on the project, filing bug reports and feature requests, an
 [![Chat][chat-image]][chat-url]
 
 ---
-
-## License
-
-See [LICENSE][stdlib-license].
-
 
 ## Copyright
 
@@ -165,8 +160,6 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [umd-url]: https://github.com/stdlib-js/constants-float16-ninf/tree/umd
 [esm-url]: https://github.com/stdlib-js/constants-float16-ninf/tree/esm
 [branches-url]: https://github.com/stdlib-js/constants-float16-ninf/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-float16-ninf/main/LICENSE
 
 [half-precision-floating-point-format]: https://en.wikipedia.org/wiki/Half-precision_floating-point_format
 
